@@ -1,11 +1,15 @@
 #Hubness
 ##Deep Business Intelligence Hub
 ###The Code of Business
+
 **Missão**: Desenvolver e prosperar os negócios digitais com segurança, 
 inteligência e automação.
+
 **Visão**: Ser a empresa de referência global na área de Tecnologia da 
 Informação integrada com Tecnologia da Automação orientada aos negócios.
+
 **Valores**: Disruptividade, transparência e robustez.
+
 **Diferencial e Solução de Dores**: 
 
 *Numa mesma plataforma*:
